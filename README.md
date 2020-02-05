@@ -3,6 +3,13 @@
 For more detail, please visit:
 > [Angular 8 CRUD application example with Web API](https://bezkoder.com/angular-crud-app/)
 
+Fullstack:
+> [Angular 8 + Node.js Express + MySQL example: Build CRUD Application](https://bezkoder.com/angular-node-express-mysql/)
+
+> [Angular 8 + Node.js Express + PostgreSQL example: Build CRUD Application](https://bezkoder.com/angular-node-express-postgresql/)
+
+> [Angular 8 + Node.js Express + MongoDB example: Build CRUD Application](https://bezkoder.com/angular-mongodb-node-express/)
+
 ## Development server
 
 Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/`. The app will automatically reload if you change any of the source files.
