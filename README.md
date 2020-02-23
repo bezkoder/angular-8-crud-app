@@ -3,12 +3,21 @@
 For more detail, please visit:
 > [Angular 8 CRUD application example with Web API](https://bezkoder.com/angular-crud-app/)
 
-Fullstack:
-> [Angular 8 + Node.js Express + MySQL example: Build CRUD Application](https://bezkoder.com/angular-node-express-mysql/)
+Fullstack with Node.js Express:
+> [Angular 8 + Node.js Express + MySQL](https://bezkoder.com/angular-node-express-mysql/)
 
-> [Angular 8 + Node.js Express + PostgreSQL example: Build CRUD Application](https://bezkoder.com/angular-node-express-postgresql/)
+> [Angular 8 + Node.js Express + PostgreSQL](https://bezkoder.com/angular-node-express-postgresql/)
 
-> [Angular 8 + Node.js Express + MongoDB example: Build CRUD Application](https://bezkoder.com/angular-mongodb-node-express/)
+> [Angular 8 + Node.js Express + MongoDB](https://bezkoder.com/angular-mongodb-node-express/)
+
+Fullstack with Spring Boot:
+> [Angular 8 + Spring Boot + MySQL/PostgreSQL](https://bezkoder.com/angular-spring-boot-crud/)
+
+> [Angular 8 + Spring Boot + MongoDB](https://bezkoder.com/angular-spring-boot-mongodb/)
+
+Fullstack with Django:
+
+> [Angular 8 + Django Rest Framework](https://bezkoder.com/django-angular-crud-rest-framework/)
 
 ## Development server
 

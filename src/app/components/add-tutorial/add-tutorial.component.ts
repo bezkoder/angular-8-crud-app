@@ -29,12 +29,11 @@ export class AddTutorialComponent implements OnInit {
       .subscribe(
         response => {
           console.log(response);
+          this.submitted = true;
         },
         error => {
           console.log(error);
         });
-
-    this.submitted = true;
   }
 
   newTutorial() {
