@@ -1,7 +1,12 @@
 # Angular 8 CRUD application example with Web API
 
-For more detail, please visit:
+For instruction, please visit:
 > [Angular 8 CRUD application example with Web API](https://bezkoder.com/angular-crud-app/)
+
+More Practice:
+> [Angular 8 Pagination example | ngx-pagination](https://bezkoder.com/ngx-pagination-angular-8/)
+
+> [Angular 8 Multiple Files upload example](https://bezkoder.com/angular-multiple-files-upload/)
 
 Fullstack with Node.js Express:
 > [Angular 8 + Node.js Express + MySQL](https://bezkoder.com/angular-node-express-mysql/)
